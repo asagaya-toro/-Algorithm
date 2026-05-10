@@ -34,3 +34,9 @@ public class Main {
         System.out.println(result);
     }
 }
+
+/* 
+[복기] 
+문제를 꼼꼼히 보자.. 
+결국 문제를 다시 읽고 다시 읽은 후 풀 수 있었다. 
+*/ 
