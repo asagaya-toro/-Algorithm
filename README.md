@@ -12,6 +12,7 @@
 ## 🔗 문제 사이트
 - 2026/4/28 백준 서비스 종료로
 - https://suinkimme.github.io/boj-archive/ 참고해서 문제 유형별로 풀고 있음
+- https://solved.ac/problems/tags/math?page=1 문제 번호, 제목 확인용
 - https://swexpertacademy.com/main/code/problem/problemList.do (어느정도 풀면 여기 도전)
 
 ## 💬 풀이 언어
