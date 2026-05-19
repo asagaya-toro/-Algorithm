@@ -1,4 +1,4 @@
-# [[개념]출력 입문 퀴즈](https://www.codetree.ai/trails/complete/curated-cards/nl-pre-output-basics)
+# [[개념]출력 입문](https://www.codetree.ai/trails/complete/curated-cards/nl-pre-output-basics)
 
 | 항목 | 내용 |
 |---|---|

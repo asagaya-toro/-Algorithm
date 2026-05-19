@@ -1,4 +1,4 @@
-# [[개념]기본 자료형 퀴즈](https://www.codetree.ai/trails/complete/curated-cards/nl-pre-simple-data-types)
+# [[개념]기본 자료형](https://www.codetree.ai/trails/complete/curated-cards/nl-pre-simple-data-types)
 
 | 항목 | 내용 |
 |---|---|

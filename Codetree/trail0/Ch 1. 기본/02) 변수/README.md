@@ -1,4 +1,4 @@
-# [[개념]변수 퀴즈](https://www.codetree.ai/trails/complete/curated-cards/nl-pre-type-variable-overview)
+# [[개념]변수](https://www.codetree.ai/trails/complete/curated-cards/nl-pre-type-variable-overview)
 
 | 항목 | 내용 |
 |---|---|

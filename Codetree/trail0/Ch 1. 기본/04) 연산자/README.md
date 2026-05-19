@@ -1,4 +1,4 @@
-# [[개념]연산자 퀴즈](https://www.codetree.ai/trails/complete/curated-cards/nl-pre-operators)
+# [[개념]연산자](https://www.codetree.ai/trails/complete/curated-cards/nl-pre-operators)
 
 | 항목 | 내용 |
 |---|---|
