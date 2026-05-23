@@ -8,6 +8,7 @@
 N = int(input())
 
 # 출력 
+print(N)
+
 if N < 0 :
-    print(N)
     print("minus")
