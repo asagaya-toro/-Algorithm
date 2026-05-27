@@ -37,16 +37,6 @@ for i in range(1, 4):
 
 ---
 
-### range() 옵션
-
-```python
-for i in range(5):        # 0, 1, 2, 3, 4
-for i in range(1, 6):     # 1, 2, 3, 4, 5
-for i in range(0, 10, 2): # 0, 2, 4, 6, 8  (step 지정)
-```
-
----
-
 ### `for _ in range(n)` — 인덱스 없이 반복
 
 ```python
