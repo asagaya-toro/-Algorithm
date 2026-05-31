@@ -9,13 +9,13 @@ A, B, C = map(int, input().split(" "))
 D = 0 
 
 # 출력 
-if A > B :
+if A > B : 
     D = B 
     B = A 
     A = D 
     if B > C : 
         D = C 
         C = B 
-        B = C 
+        B = D
 print (B)
 
