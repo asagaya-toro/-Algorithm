@@ -12,7 +12,7 @@ if A > B :
     A, B = B, A
 if B > C : 
     C , B = B, C 
-if A > C : 
-    A, C = C, A 
+if A > B : 
+    A, B = B, A 
 print (B)
 
