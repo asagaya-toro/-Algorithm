@@ -6,16 +6,13 @@
 
 # 입력 
 A, B, C = map(int, input().split(" "))
-D = 0 
 
 # 출력 
 if A > B : 
-    D = B 
-    B = A 
-    A = D 
-    if B > C : 
-        D = C 
-        C = B 
-        B = D
+    A, B = B, A
+if B > C : 
+    C , B = B, C 
+if A > C : 
+    A, C = C, A 
 print (B)
 
