@@ -9,9 +9,10 @@
 A, B = map(int, input().split(" "))
 total = 0
 
-# 출력 
+# A 부터 B까지 짝수를 더한다.  
 for i in range(A, B+1) : 
     if i % 2 == 0 : 
         total += i
 
+# 출력 
 print(total)
