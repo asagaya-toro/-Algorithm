@@ -10,7 +10,7 @@ N = int(input())
 cnt = 0
 
 # 출력 
-for i in range(N) : 
+for i in range(N+1) : 
     cnt +=i 
     if cnt >= N : 
         print(i)
