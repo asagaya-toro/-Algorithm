@@ -12,15 +12,13 @@ cnt_5 = 0
 # 입력문에서 3과 5의 배수 갯수 출력 
 for i in range(10) : 
     N = int(input())
-    if N % 3 == 0 and N % 5 == 0: 
+    if N % 3 == 0 : 
         cnt_3 += 1 
-        cnt_5 += 1 
-    elif N % 3 == 0 : 
-        cnt_3 += 1 
-    elif N % 5 == 0 : 
+    if N % 5 == 0 : 
         cnt_5 +=1 
-    else : 
-        continue
 
 # 출력
 print(cnt_3, cnt_5)
+
+# 복기 1 : cnt_3, cnt_5 = 0 이렇게 변수 선언 할 수 있었음 
+# 복기 2 : 처음에 elif를 사용 했는데 true 되면 뒤를 건너 뜀 if를 사용했어야 했음 
