@@ -8,12 +8,16 @@
 # 입력 
 N = int(input())
 
-# 출력 
+# N 만큼 반복 
 for _ in range(N) :
+    # a, b, 합계 변수 선언 
     a,b = map(int,input().split(" "))
     cnt = 0
+
+    # 짝수인 경우 합계를 구하기
     for i in range(a, b+1) : 
         if i % 2 == 0 : 
             cnt +=i
+    # 출력 
     print(cnt)
 
