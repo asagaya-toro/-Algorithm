@@ -1,4 +1,4 @@
-# [[챌린지]숫자 피라미드 2](https://www.codetree.ai/trails/complete/curated-cards/nl-pre-2d-loop-variables-1)
+# [[개념]2중 반복문에서의 변수 사용](https://www.codetree.ai/trails/complete/curated-cards/nl-pre-2d-loop-variables)
 
 | 항목 | 내용 |
 |---|---|
