@@ -1,4 +1,4 @@
-# [[개념]2중 반복문의 continue와 break 퀴즈](https://www.codetree.ai/trails/complete/curated-cards/nl-pre-2d-loop-continue-break)
+# [[개념]2중 반복문의 continue와 break](https://www.codetree.ai/trails/complete/curated-cards/nl-pre-2d-loop-continue-break)
 
 | 항목 | 내용 |
 |---|---|
